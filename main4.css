@@ -5,13 +5,22 @@ div{
 }
 .rojo{
 	background-color: #ee3e64;
+	float: left;
+
 }
 .azul{
 	background-color: #44accf;
-	float: top;
-	margin-right: 860px;
-	margin-left: 200px;
+	float: right;
+	margin-left: 500px;
 }
 .verde{
 	background-color: #b7d84b;
+	float: left;
+	margin-top: 500px;
+}
+.amarillo{
+	background-color: yellow;
+	float: right;
+	margin-left: 500px;
+	margin-top: 500px;
 }
