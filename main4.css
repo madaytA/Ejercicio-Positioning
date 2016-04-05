@@ -1,0 +1,17 @@
+div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.rojo{
+	background-color: #ee3e64;
+}
+.azul{
+	background-color: #44accf;
+	float: top;
+	margin-right: 860px;
+	margin-left: 200px;
+}
+.verde{
+	background-color: #b7d84b;
+}
