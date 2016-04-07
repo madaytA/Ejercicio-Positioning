@@ -11,18 +11,17 @@ div{
 .azul{
 	background-color: #44accf;
 	float: right;
-	top: 0px;
-	right: 500px;
+	top: 200px;
+	left: 200px;
 
 }
 .verde{
 	background-color: #b7d84b;
 	float: left;
-	bottom: 0px;
+	top: 200px;
 }
 .amarillo{
 	background-color: yellow;
 	float: right;
-	bottom: 0px;
-	right: 500px;
+	top: 400px;
 }
